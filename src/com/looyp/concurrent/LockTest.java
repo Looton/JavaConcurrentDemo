@@ -45,6 +45,7 @@ public class LockTest {
 
 	}
 
+	//
 	static class Outputer {
 		Lock lock = new ReentrantLock();
 
